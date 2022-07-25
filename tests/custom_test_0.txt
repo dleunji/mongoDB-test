@@ -1,0 +1,23 @@
+22
+100 orange
+100 apple
+100 pear
+100 outsider
+200 orange hi 1
+200 apple hello 1
+200 apple bye 1
+200 pear omg 2
+200 pear nice 3
+200 apple to 1
+200 orange meet 2
+200 orange you 3
+300 pear apple
+300 apple orange
+300 orange apple
+400 apple
+400 orange
+400 pear
+400 outsider
+500 apple
+500 outsider
+500 orange

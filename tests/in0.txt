@@ -1,0 +1,23 @@
+22
+100 apple
+100 pear
+100 orange
+200 apple apple_is_delicious 1
+200 pear pear_is_big_fruit 2
+200 apple 1apple 2
+100 strawberry
+500 apple
+500 orange
+300 pear apple
+400 pear
+400 apple
+500 pear
+500 apple
+500 strawberry
+300 strawberry apple
+300 strawberry pear
+500 strawberry
+200 pear zzz 2
+500 strawberry
+400 strawberry
+400 orange

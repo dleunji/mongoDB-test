@@ -1,0 +1,47 @@
+46
+100 apple 
+100 apple 
+100 pear 
+100 orange 
+200 apple apple_is_delicious 1 
+200 pear pear_is_big_fruit 2 
+200 apple 1apple 2 
+100 strawberry 
+500 apple 
+500 orange 
+300 pear apple 
+400 pear 
+400 apple 
+500 pear 
+500 apple 
+500 strawberry 
+300 strawberry apple 
+300 strawberry pear 
+500 strawberry 
+200 pear zzz 2 
+300 pear apple 
+300 pear bear
+200 bear aaa 3 
+200 pear pear_fear 3
+200 pear pear_fear 3
+500 strawberry 
+400 strawberry 
+400 orange
+400 bear
+500 bear
+600 pear 2
+500 pear
+600 pear 2
+700 orange pear
+500 strawberry
+700 strawberry apple
+500 strawberry
+700 strawberry apple
+700 bear apple
+200 strawberry strawberry_is_delicious 3
+400 strawberry
+800 pear
+800 pear
+500 strawberry
+400 strawberry
+100 pear

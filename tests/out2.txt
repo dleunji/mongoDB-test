@@ -1,0 +1,39 @@
+True
+False
+True
+True
+1
+1
+2
+True
+2 1apple apple_is_delicious
+0
+True
+1 apple
+0
+3 1apple pear_is_big_fruit apple_is_delicious
+2 1apple apple_is_delicious
+0
+True
+True
+3 1apple pear_is_big_fruit apple_is_delicious
+2
+False
+False
+0
+3
+4
+6 pear_fear pear_fear 1apple zzz pear_is_big_fruit apple_is_delicious
+2 apple pear
+0
+0
+0
+True
+5 pear_fear pear_fear 1apple pear_is_big_fruit apple_is_delicious
+False
+False
+5 pear_fear pear_fear 1apple pear_is_big_fruit apple_is_delicious
+True
+3 pear_fear pear_fear pear_is_big_fruit
+False
+False
